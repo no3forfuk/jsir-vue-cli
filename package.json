@@ -4,7 +4,7 @@
   "description": "a vue project cli",
   "main": "index.js",
   "bin": {
-    "jsir-vue-init": "./index.js"
+    "jsir-vue": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
