@@ -1,6 +1,6 @@
 {
   "name": "jsir-vue-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a vue project cli",
   "main": "index.js",
   "bin": {
